@@ -5,9 +5,7 @@ Color palette and swatches for macOS's color picker.
 <img width="229" alt="Screen Shot 2020-06-08 at 7 57 06 PM" src="https://user-images.githubusercontent.com/1791050/84101160-3bc90200-a9c2-11ea-9882-e0398297913e.png">
 
 ## Installation
-1. Download the following files:
-   - NSColorPanelSwatches.plist
-   - Tailwind.clr
+1. Download the [latest release](https://github.com/GeneaLabs/tailwind-mac-colors/releases/latest) files and unzip them.
 2. (Optional) If you currently have swatches in your color picker tool you want to save, create a backup copy of your local `NSColorPanelSwatches.plist` file using the following terminal command:
   ```sh
   mv ~/Library/Colors/NSColorPanelSwatches.plist ~/Library/Colors/NSColorPanelSwatches.plist.bak
