@@ -15,5 +15,5 @@ Color palette and swatches for macOS's color picker.
 
 ## Usage
 The palette and swatches will be available in:
-- any Apple app that uses the color picker control.
+- any app that uses the macOS color picker control.
 - Affinity apps (Designer, Photo, Publisher).
