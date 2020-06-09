@@ -2,7 +2,7 @@
 Color palette and swatches for macOS's color picker.
 
 ## Screenshots
-
+<img width="229" alt="Screen Shot 2020-06-08 at 7 57 06 PM" src="https://user-images.githubusercontent.com/1791050/84101160-3bc90200-a9c2-11ea-9882-e0398297913e.png">
 
 ## Installation
 1. Download the following files:
