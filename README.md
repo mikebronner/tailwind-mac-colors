@@ -12,3 +12,8 @@ Color palette and swatches for macOS's color picker.
     ```
 3. Copy the two files you downloaded to: `~/Library/Colors/`.
 4. Open the color picker tool in any Mac app, and select `Color Palettes` tab and select the `Tailwind` palette. You will also want to adjust the width and height of the color picker to show all swatches (recommended width is 10 swatches).
+
+## Usage
+The palette and swatches will be available in:
+- any Apple app that uses the color picker control.
+- Affinity apps (Designer, Photo, Publisher).
